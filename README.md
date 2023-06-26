@@ -1,6 +1,5 @@
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
-# Capstone-M4 | 🏁 Projeto final referente ao módulo 4 
+# Happy Delivery Api
 
 ## ✔️ Técnicas e tecnologias utilizadas
  - `Node` 
